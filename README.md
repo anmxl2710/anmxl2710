@@ -1,3 +1,4 @@
+![logo](https://github.com/anmxl2710/anmxl2710/blob/main/AI-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Anmol Goswami</h1>
 <h3 align="center">A passionate AI/ML enthusiast from India</h3>
 
