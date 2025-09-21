@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anmolgoswami505@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BJgFINwg36sU1Jhbma_SEKH5BNR1pQDR/view?usp=drive_link](https://drive.google.com/file/d/1BJgFINwg36sU1Jhbma_SEKH5BNR1pQDR/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BJgFINwg36sU1Jhbma_SEKH5BNR1pQDR/view?usp=drive_link](https://drive.google.com/file/d/1-iZkgbjyMuM-HgaySWlun6cUi8b5C-fl/view?usp=sharing)
 
 - ⚡ Fun fact **I am passionate towards AI and development of neural networks**
 
