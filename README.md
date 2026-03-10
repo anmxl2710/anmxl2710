@@ -1,4 +1,7 @@
 ![logo](https://github.com/anmxl2710/anmxl2710/blob/main/AI-Banner.jpg)
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/50edd72c-ed1d-441c-ba03-f6d86606dc0e/thumbnail" >
+</p>
 <h1 align="center">Hi 👋, I'm Anmol Goswami</h1>
 <h3 align="center">A passionate AI/ML enthusiast from India</h3>
 
