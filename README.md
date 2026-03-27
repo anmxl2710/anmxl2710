@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **agentic ai model that extracts tables from scanned and digital PDF's in the form of an excel file.**
+- 🔭 I’m currently working on **AI-driven hospital robot task scheduling system using auction-based allocation, NLP task parsing, and real-time multi-robot coordination via React + Node.js.**
 
 - 🌱 I’m currently learning **LLM's and deep learning.**
 
